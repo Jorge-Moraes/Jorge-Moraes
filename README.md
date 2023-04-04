@@ -1,7 +1,6 @@
 ## **Olá** 👋
 
-Meu Nome é **Jorge**, tenho 26 anos.
-Atualmente estou trabalhando como Operador de Produção, porem estou migrando de área, e estou muito interessado na área de programação.
+Meu Nome é **Jorge**, tenho 26 anos. Trabalho e sou estudante na área de programação, focado em Front-end.
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Moraes&theme=tokyonight&show_icons=true)
@@ -25,7 +24,8 @@ Atualmente estou trabalhando como Operador de Produção, porem estou migrando d
 ---
 
 ## Contatos
-
-[LinkedIn](https://www.linkedin.com/in/-jorgericardo/) // [Instagram](https://www.instagram.com/jorgeriicardobjj/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/-jorgericardo/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/jorgeriicardobjj/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">](https://www.facebook.com/JorgeRiicardoo)
 
 
