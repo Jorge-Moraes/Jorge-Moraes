@@ -1,14 +1,14 @@
-## **Olá** 👋
+# **Olá**, Eu sou **Jorge Ricardo** 👋🏾
+<br>
 
-Meu Nome é **Jorge**, tenho 26 anos. Trabalho e sou estudante na área de programação, focado em Front-end.
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Moraes&theme=tokyonight&show_icons=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Moraes&theme=tokyonight&layout=compact" height="180em" />
+</div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Moraes&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Moraes&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### Repositorios
+## Repositorios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=js-developer-portfolio-main)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=pokedexJS-DIO-NTT)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,10 +22,25 @@ Meu Nome é **Jorge**, tenho 26 anos. Trabalho e sou estudante na área de progr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=explore-lab-01)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## Linguagens
 
+<div style="display: inline-block"><br>
+  <img align="center" alt="Jorge-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Jorge-HTML" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Jorge-HTML" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Jorge-HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Jorge-HTML" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+---
 ## Contatos
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/-jorgericardo/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/jorgeriicardobjj/)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">](https://www.facebook.com/JorgeRiicardoo)
+
+<div>
+  <a href="https://www.linkedin.com/in/-jorgericardo/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/jorgeriicardobjj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://www.facebook.com/JorgeRiicardoo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a>
+  <a href="jorge-ricardo15@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+</div>
+
 
 
