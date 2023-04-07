@@ -10,16 +10,17 @@
 
 ## Repositorios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=js-developer-portfolio-main)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=pokedexJS-DIO-NTT)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=js-developer-portfolio-main)](https://github.com/Jorge-Moraes/js-developer-portfolio-main)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=pokedexJS-DIO-NTT)](https://github.com/Jorge-Moraes/pokedexJS-DIO-NTT)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=advice-generator-app-main)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=nlw-Explore)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=advice-generator-app-main)](https://github.com/Jorge-Moraes/advice-generator-app-main)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=nlw-Explore)](https://github.com/Jorge-Moraes/nlw-Explore)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=Login-DevMentor)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=jornada-fullstack)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=Login-DevMentor)](https://github.com/Jorge-Moraes/Login-DevMentor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=jornada-fullstack)](https://github.com/Jorge-Moraes/jornada-fullstack)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=explore-lab-01)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=explore-lab-01)](https://github.com/Jorge-Moraes/explore-lab-01)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=NTT-dio)](https://github.com/Jorge-Moraes/NTT-dio)
 
 ---
 ## Linguagens
