@@ -2,7 +2,7 @@
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Moraes&theme=tokyonight&show_icons=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-Moraes&theme=tokyonight&include_all_commits&show_icons=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Moraes&theme=tokyonight&layout=compact" height="180em" />
 </div>
 
