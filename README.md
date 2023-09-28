@@ -17,7 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=nlw-Explore)](https://github.com/Jorge-Moraes/nlw-Explore)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=Login-DevMentor)](https://github.com/Jorge-Moraes/Login-DevMentor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=jornada-fullstack)](https://github.com/Jorge-Moraes/jornada-fullstack)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=explore-lab-01)](https://github.com/Jorge-Moraes/explore-lab-01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorge-Moraes&theme=tokyonight&repo=NTT-dio)](https://github.com/Jorge-Moraes/NTT-dio)
